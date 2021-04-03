@@ -1,6 +1,6 @@
 # herois-api  
 Criação de uma API Reativa para gerenciamento de herois utilizando 
-Spring WebFlux e Banco de dados NoSql dynamoDB. E immplementação 
+Spring WebFlux e Banco de dados NoSql dynamoDB. E implementação 
 de testes unitários para camada de controle com Junit.
 Projeto realizado para o BootCamp da Digital Innovation One.    
 
@@ -64,10 +64,10 @@ conjunto de tabelas, independentemente de sua região e configuração de creden
 
 <pre>mvn spring-boot:run</pre>
 
-### Link da publicação da API no postman
-<pre>https://documenter.getpostman.com/view/431683/TzCMe8zf</pre>
+### Link de publicação da API no postman.com documenter
+* [Link de Publicação da API](https://documenter.getpostman.com/view/431683/TzCMe8zf)
 
-## Acessando API na página local do swagger 
+## Acessando API local na página do swagger 
 <pre>http://localhost:8080/swagger-ui.html</pre>
 
 
